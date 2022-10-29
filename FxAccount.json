@@ -1,0 +1,12 @@
+[
+	{
+		"currencyPair": "USD",
+		"baseAmount": "600.75",
+		"quoteAmount": "700.75"
+	},
+	{
+		"currencyPair": "HKD",
+		"baseAmount": "800.75",
+		"quoteAmount": "900.75"
+	}
+]
