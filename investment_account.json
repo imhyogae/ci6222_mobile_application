@@ -4,32 +4,32 @@
 		"name": "DBS Group Holdings Ltd",
 		"details": [
 			{
-				"date": "20221101",
+				"date": "1101",
 				"holding": 500,
 				"closePrice": 34.02
 			},
 			{
-				"date": "20221102",
+				"date": "1102",
 				"holding": 500,
 				"closePrice": 34.62
 			},
 			{
-				"date": "20221102",
+				"date": "1102",
 				"holding": 500,
 				"closePrice": 34.22
 			},
 			{
-				"date": "20221103",
+				"date": "1103",
 				"holding": 500,
 				"closePrice": 34.52
 			},
 			{
-				"date": "20221104",
+				"date": "1104",
 				"holding": 500,
 				"closePrice": 34.32
 			},
 			{
-				"date": "20221105",
+				"date": "1105",
 				"holding": 500,
 				"closePrice": 34.62
 			}
@@ -40,32 +40,32 @@
 		"name": "Singapore Airlines Ltd",
 		"details": [
 			{
-				"date": "20221101",
+				"date": "1101",
 				"holding": 1000,
 				"closePrice": 5.31
 			},
 			{
-				"date": "20221102",
+				"date": "1102",
 				"holding": 1000,
 				"closePrice": 5.17
 			},
 			{
-				"date": "20221102",
+				"date": "1102",
 				"holding": 1000,
 				"closePrice": 5.1
 			},
 			{
-				"date": "20221103",
+				"date": "1103",
 				"holding": 1000,
 				"closePrice": 5.08
 			},
 			{
-				"date": "20221104",
+				"date": "1104",
 				"holding": 1000,
 				"closePrice": 5.07
 			},
 			{
-				"date": "20221105",
+				"date": "1105",
 				"holding": 1000,
 				"closePrice": 5.1
 			}
