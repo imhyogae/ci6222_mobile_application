@@ -1,0 +1,74 @@
+[
+	{
+		"symbol": "D05.SI",
+		"name": "DBS Group Holdings Ltd",
+		"details": [
+			{
+				"date": "20221101",
+				"holding": 500,
+				"closeoff price": 34.02
+			},
+			{
+				"date": "20221102",
+				"holding": 500,
+				"closeoff price": 34.62
+			},
+			{
+				"date": "20221102",
+				"holding": 500,
+				"closeoff price": 34.22
+			},
+			{
+				"date": "20221103",
+				"holding": 500,
+				"closeoff price": 34.52
+			},
+			{
+				"date": "20221104",
+				"holding": 500,
+				"closeoff price": 34.32
+			},
+			{
+				"date": "20221105",
+				"holding": 500,
+				"closeoff price": 34.62
+			}
+		]
+	},
+	{
+		"symbol": "C6L",
+		"name": "Singapore Airlines Ltd",
+		"details": [
+			{
+				"date": "20221101",
+				"holding": 1000,
+				"closeoff price": 5.31
+			},
+			{
+				"date": "20221102",
+				"holding": 1000,
+				"closeoff price": 5.17
+			},
+			{
+				"date": "20221102",
+				"holding": 1000,
+				"closeoff price": 5.1
+			},
+			{
+				"date": "20221103",
+				"holding": 1000,
+				"closeoff price": 5.08
+			},
+			{
+				"date": "20221104",
+				"holding": 1000,
+				"closeoff price": 5.07
+			},
+			{
+				"date": "20221105",
+				"holding": 1000,
+				"closeoff price": 5.1
+			}
+		]
+	}
+]
